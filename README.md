@@ -13,7 +13,12 @@ For each appliance, plug load measurements were post-processed to extract a thre
 For others, the window only contains the steady-state operation. The observations were then transformed into two spectrograms, one for current, and one for voltage.
 <hr>
 
-#### Certificate of passing: - 
+# Result
+
+<img src= "https://github.com/prithvi-sharma/Microsoft-Professional-Capstone-AI/blob/master/Images/Result.jpg">
+<hr>
+
+# Certificate of passing: - 
 
 <img src= "https://raw.githubusercontent.com/prithvi-sharma/Microsoft-Professional-Capstone-AI/master/Microsoft%20Certificate.jpg">
 <hr>

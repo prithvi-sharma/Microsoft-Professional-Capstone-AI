@@ -23,6 +23,6 @@ For others, the window only contains the steady-state operation. The observation
 <img src= "https://raw.githubusercontent.com/prithvi-sharma/Microsoft-Professional-Capstone-AI/master/Microsoft%20Certificate.jpg">
 <hr>
 
-## Thanks for Reading.
+## Thanks for Reading!
 
 <hr>

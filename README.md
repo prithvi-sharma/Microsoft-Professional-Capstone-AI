@@ -1,4 +1,4 @@
-# Microsoft-Professional-Capstone-AI
+# Microsoft Professional Capstone AI
 
 <img src="https://github.com/prithvi-sharma/Microsoft-Professional-Capstone-AI/blob/master/Images/Comp%201_00000.jpg" width="100%">
 

@@ -2,7 +2,7 @@
 
 <img src="https://github.com/prithvi-sharma/Microsoft-Professional-Capstone-AI/blob/master/Images/Comp%201_00000.jpg" width="100%">
 
-#### DAT264x: Microsoft Professional Capstone : Artificial Intelligence - Dec 2019
+### DAT264x: Microsoft Professional Capstone : Artificial Intelligence - Dec 2019
  
 In this challenge, I had to use standard AI tools to identify 11 different types of appliances from their electric signatures, quantified by current and voltage measurements.
 
